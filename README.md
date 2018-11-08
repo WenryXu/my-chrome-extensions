@@ -16,3 +16,4 @@
 - [uSelect iDownload](https://chrome.google.com/webstore/detail/ileabdhfjmgaognikmjgmhhkjffggejc) - 多选并批量打开链接
 - [扩展管理器（Extension Manager）](https://chrome.google.com/webstore/detail/gjldcdngmdknpinoemndlidpcabkggco) - 扩展管理器，快速开启 / 禁用扩展
 - [达达划词翻译](https://chrome.google.com/webstore/detail/cajhcjfcodjoalmhjekljnfkgjlkeajl) - 划词翻译
+- [违禁词检查](https://chrome.google.com/webstore/detail/hidcgccgkiamehonfofohinbaeefabmi) - 检查页面中可能违反广告法的违禁词和高风险词
