@@ -3,7 +3,6 @@
 ## 我 / 我们的作品
 
 - [Scan it](https://chrome.google.com/webstore/detail/dacniolddlepgdpejbnbfbkkcabhmnnc) - 查看当前页面网址二维码
-- [Gmail 2 Inbox](https://chrome.google.com/webstore/detail/nlpebbgkkjccgiahkggafionbcniaoeh) - 访问 Gmail 时跳转到 Inbox
 
 ## 推荐
 
