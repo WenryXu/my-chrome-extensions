@@ -11,6 +11,7 @@
 - [EditThisCookie](https://chrome.google.com/webstore/detail/fngmhnnpilhplaeedifhccceomclgfbg) - Cookie 编辑器
 - [Full Page Screen Capture](https://chrome.google.com/webstore/detail/fdpohaocaechififmbbbbbknoalclacl) - 截取网页完整的截图
 - [HTTP Status](https://chrome.google.com/webstore/detail/cknfnacbckhfpjahnmkblajcpledpfnp) - 查看当前页面的 HTTP 状态码
+- [RSSHub Radar](https://chrome.google.com/webstore/detail/kefjpfngnndepjbopdmoebkipbgkggaa) - 查看当前网站的 RSS 订阅源
 - [uSelect iDownload](https://chrome.google.com/webstore/detail/ileabdhfjmgaognikmjgmhhkjffggejc) - 多选并批量打开链接
 - [VisBug](https://chrome.google.com/webstore/detail/cdockenadnadldjbbgcallicgledbeoc) - 任意编辑网页上元素的内容
 - [达达划词翻译](https://chrome.google.com/webstore/detail/cajhcjfcodjoalmhjekljnfkgjlkeajl) - 划词翻译
