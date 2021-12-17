@@ -11,5 +11,3 @@
 - [SuperCopy](https://chrome.google.com/webstore/detail/onepmapfbjohnegdmfhndpefjkppbjkm) - 解除网页禁止复制的限制
 - [uSelect iDownload](https://chrome.google.com/webstore/detail/ileabdhfjmgaognikmjgmhhkjffggejc) - 多选并批量打开链接
 - [VisBug](https://chrome.google.com/webstore/detail/cdockenadnadldjbbgcallicgledbeoc) - 任意编辑网页上元素的内容
-- [达达划词翻译](https://chrome.google.com/webstore/detail/cajhcjfcodjoalmhjekljnfkgjlkeajl) - 划词翻译
-- [扩展管理器（Extension Manager）](https://chrome.google.com/webstore/detail/gjldcdngmdknpinoemndlidpcabkggco) - 扩展管理器，快速开启 / 禁用扩展
