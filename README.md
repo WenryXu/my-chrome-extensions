@@ -11,4 +11,4 @@
 - [SuperCopy](https://chrome.google.com/webstore/detail/onepmapfbjohnegdmfhndpefjkppbjkm) - 解除网页禁止复制的限制
 - [uSelect iDownload](https://chrome.google.com/webstore/detail/ileabdhfjmgaognikmjgmhhkjffggejc) - 多选并批量打开链接
 - [VisBug](https://chrome.google.com/webstore/detail/cdockenadnadldjbbgcallicgledbeoc) - 任意编辑网页上元素的内容
-- [Noptcha](https://chrome.google.com/webstore/detail/noptcha-recaptcha-hcaptch/dknlfmjaanfblgfdfebhijalfmhmjjjo) - 自动完成人机校验
+- [OpenAI Translator](https://chrome.google.com/webstore/detail/openai-translator/ogjibjphoadhljaoicdnjnmgokohngcc) - 使用 ChatGPT API 的划词翻译
